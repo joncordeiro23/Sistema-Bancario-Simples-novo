@@ -1,8 +1,11 @@
 #Sistema Bancário Simples
+
+
 #Projeto desenvolvido em Python que simula as operações básicas de um sistema bancário através do terminal.
 O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de programação, como variáveis, estruturas condicionais, loops, operadores lógicos e entrada de dados.
 
-##Funcionalidades
+
+Funcionalidades
 - Depósito de valores
 - Saque de dinheiro
 - Consulta de extrato
@@ -12,7 +15,9 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de 
 - Opção para sair do sistema
 - Interface executada pelo terminal
 - 
-##Conceitos utilizados
+
+
+Conceitos utilizados
 - Variáveis
 - while
 - break
@@ -26,7 +31,7 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de 
 - Estruturas de repetição
 - Estruturas condicionais
 
-##Tecnologias utilizadas
+#Tecnologias utilizadas
 Python
 Visual Studio Code
 Git
