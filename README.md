@@ -1,5 +1,5 @@
 #Sistema Bancário Simples
-###Projeto desenvolvido em Python que simula as operações básicas de um sistema bancário através do terminal.
+#Projeto desenvolvido em Python que simula as operações básicas de um sistema bancário através do terminal.
 O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de programação, como variáveis, estruturas condicionais, loops, operadores lógicos e entrada de dados.
 
 ##Funcionalidades
